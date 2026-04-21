@@ -15,7 +15,7 @@ app.mount("/static", StaticFiles(directory=static_dir), name="static")
 
 @app.get("/")
 async def root():
-    return FileResponse("static/index.html")
+    return FileResponse(os.path.join(static_dir,"index.html"))
 
 conn = sqlite3.connect("inventory.db")
 cursor = conn.cursor()

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "resolution_week5_bacasss"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [ "fastapi[standard]", "slowapi", "uvicorn"]
 
 [project.scripts]
