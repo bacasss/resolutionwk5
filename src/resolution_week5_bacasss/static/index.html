@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/brython@3/brython.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/brython@3/brython_stdlib.js"></script>
+
+<style>
+body{font-family: Arial; margin: 20px; background-color: #f0e7d5; color: #212842;}
+.dark{font-family: Arial; margin: 20px; background-color: #212842; color: #f0e7d5;}
+button{background-color: #27B0F5; color: white; padding: 8px; border: none; border-radius: 4px;}
+input{padding: 5px; margin: 4px;}
+</style>
+</head>
+<body onload="brython()">
+<button id = "theme">toggle theme</button>
+
+<h1>very cool and awesome inventory tracker</h1>
+
+<p id = "loading" style="display:none;">Loading...</p>
+
+<input type="text" id="name" placeholder="enter your name">
+<button id="register">Register</button>
+<p id="registered"></p>
+<hr>
+<input type="text" id="itemname" placeholder="item name">
+<input type="number" id="quantity" placeholder="quantity">
+<button id="add">add item</button>
+<hr>
+
+<div id="itemlist"></div>
+<script type="text/python" src="/static/app.py"></script>
+
+
+</body>
+</html>

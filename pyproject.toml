@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "resolution_week5_bacasss"
+version = "0.0.1"
+dependencies = [ "fastapi[standard]", "slowapi", "uvicorn"]
+
+[project.scripts]
+inv = "resolution_week5_bacasss.main:main"
