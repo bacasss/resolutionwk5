@@ -15,4 +15,4 @@ Ability to toggle between dark and light theme!!!!
 heres a pic of the frontend:
 <img width="1919" height="1199" alt="Screenshot 2026-04-21 225324" src="https://github.com/user-attachments/assets/616e06b7-1dd1-4632-8260-75cf94d65fd5" />
 
-just run inv!!
+just run inv!! (tested :D)
