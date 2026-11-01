@@ -22,17 +22,21 @@ Ability to toggle between dark and light theme!!!!
 
 how to use:
 register with your name! an API key will be created to your name:
+
 <img width="292" height="72" alt="image" src="https://github.com/user-attachments/assets/a2db8879-b1eb-4f89-907d-1524f0ff2460" />
 
 
 add your item name and quantity and click "add item":
+
 <img width="543" height="312" alt="image" src="https://github.com/user-attachments/assets/4395fa35-dfe3-4c8c-b33c-798dc9108450" />
 
 
 deleting prompts whether you really want to delete, so nothing accidental happens:
+
 <img width="1919" height="1199" alt="Screenshot 2026-04-21 225324" src="https://github.com/user-attachments/assets/616e06b7-1dd1-4632-8260-75cf94d65fd5" />
 
 toggle theme changes the theme of the website:
+
 <img width="553" height="317" alt="image" src="https://github.com/user-attachments/assets/79a9ef28-32eb-4f67-b15d-aa67de102e54" />
 
 
