@@ -49,6 +49,7 @@ how to run:
 3. run python -m resolution_week5_bacasss.main
 4. open http://127.0.0.1:8000/
 5. profit!!
+6. to stop the server from running, do ctrl + c in terminal
 
 ( testpypi site: https://test.pypi.org/project/resolution-week5-bacasss/0.0.2/ ) 
 
