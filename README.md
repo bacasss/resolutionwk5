@@ -20,6 +20,8 @@ unfortunately useless loading indicator as it runs too quickly
 
 Ability to toggle between dark and light theme!!!!
 
+Data is saved even if you refresh the page!!
+
 how to use:
 register with your name! an API key will be created to your name:
 
@@ -37,7 +39,8 @@ deleting prompts whether you really want to delete, so nothing accidental happen
 
 toggle theme changes the theme of the website:
 
-<img width="553" height="317" alt="image" src="https://github.com/user-attachments/assets/79a9ef28-32eb-4f67-b15d-aa67de102e54" />
+<img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/da4c6777-bced-4b36-a2a5-46cd088fa800" />
+
 
 
 how to run:
