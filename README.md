@@ -23,4 +23,12 @@ Ability to toggle between dark and light theme!!!!
 heres a pic of the frontend:
 <img width="1919" height="1199" alt="Screenshot 2026-04-21 225324" src="https://github.com/user-attachments/assets/616e06b7-1dd1-4632-8260-75cf94d65fd5" />
 
-just run inv!! (tested :D)
+
+how to run:
+1. open command prompt
+2. do pip install -i https://test.pypi.org/simple/ resolution-week5-bacasss==0.0.2
+3. run python -m resolution_week5_bacasss.main
+4. open http://127.0.0.1:8000/
+5. profit!!
+
+(the short command "inv" worked when i ran the code in vscode)
