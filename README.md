@@ -43,4 +43,6 @@ how to run:
 4. open http://127.0.0.1:8000/
 5. profit!!
 
+( testpypi site: https://test.pypi.org/project/resolution-week5-bacasss/0.0.2/ ) 
+
 (the short command "inv" worked when i ran the code in vscode)
