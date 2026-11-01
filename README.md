@@ -54,3 +54,12 @@ how to run:
 ( testpypi site: https://test.pypi.org/project/resolution-week5-bacasss/0.0.2/ ) 
 
 (the short command "inv" worked when i ran the code in vscode)
+
+THIS FRONTEND IS BASED OFF MY WEEK 4 BACKEND, MORE INFO ABOUT IT CAN BE FOUND IN THIS REPO:
+https://github.com/bacasss/resolutionwk4
+
+ENDPOINTS USED:
+/register (POST)
+/items (POST)
+/items (GET)
+/items/{itemid} (DELETE)
