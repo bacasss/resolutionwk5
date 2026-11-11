@@ -42,6 +42,10 @@ toggle theme changes the theme of the website:
 <img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/da4c6777-bced-4b36-a2a5-46cd088fa800" />
 
 
+Running this on your browser (link): 
+
+https://resolutionwk5.bacasss.hackclub.app/
+
 
 how to run:
 1. open command prompt
