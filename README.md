@@ -52,6 +52,7 @@ how to run:
 6. to stop the server from running, do ctrl + c in terminal
 
 ( testpypi site: https://test.pypi.org/project/resolution-week5-bacasss/0.0.2/ ) 
+( fastAPI link: https://resolutionwk5.bacasss.hackclub.app/docs#/ )
 
 (the short command "inv" worked when i ran the code in vscode)
 
